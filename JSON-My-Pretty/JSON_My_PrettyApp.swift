@@ -7,7 +7,7 @@ import SwiftUI
 struct JSON_My_PrettyApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MainView()
         }
     }
 }
